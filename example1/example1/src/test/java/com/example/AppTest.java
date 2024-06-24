@@ -1,4 +1,4 @@
-/* package com.example;
+package com.example;
 
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
@@ -63,4 +63,3 @@ public class AppTest {
     
   
 }
- */

@@ -2,71 +2,71 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="42" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+  <suite name="Surefire suite" duration-ms="48" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
     <groups>
       <group name="user">
         <method signature="AppTest.testUserRole()[pri:0, instance:com.example.AppTest@74abbb]" name="testUserRole" class="com.example.AppTest"/>
         <method signature="AppTest.testUsername()[pri:0, instance:com.example.AppTest@74abbb]" name="testUsername" class="com.example.AppTest"/>
       </group> <!-- user -->
     </groups>
-    <test name="Surefire test" duration-ms="42" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+    <test name="Surefire test" duration-ms="48" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
       <class name="com.example.AppTest">
-        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeSuite" is-config="true" duration-ms="17" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeSuite" is-config="true" duration-ms="28" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeSuite -->
-        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeClass" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeClass" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClass -->
-        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="testMethod" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="testMethod" duration-ms="9" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="BeforeUserGroup()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeUserGroup" is-config="true" duration-ms="8" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- BeforeUserGroup -->
-        <test-method status="PASS" signature="testUserRole()[pri:0, instance:com.example.AppTest@74abbb]" name="testUserRole" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="testUserRole()[pri:0, instance:com.example.AppTest@74abbb]" name="testUserRole" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUserRole -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="AfterClass()[pri:0, instance:com.example.AppTest@74abbb]" name="AfterClass" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AfterClass -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="testUsername()[pri:0, instance:com.example.AppTest@74abbb]" name="testUsername" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="testUsername()[pri:0, instance:com.example.AppTest@74abbb]" name="testUsername" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUsername -->
-        <test-method status="PASS" signature="afterUserGroup()[pri:0, instance:com.example.AppTest@74abbb]" name="afterUserGroup" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        <test-method status="PASS" signature="BeforeUserGroup()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeUserGroup" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterUserGroup -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2024-06-24T04:42:48Z" finished-at="2024-06-24T04:42:48Z">
+        </test-method> <!-- BeforeUserGroup -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:com.example.AppTest@74abbb]" name="AfterClass" is-config="true" duration-ms="1" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.example.AppTest@74abbb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterUserGroup()[pri:0, instance:com.example.AppTest@74abbb]" name="afterUserGroup" is-config="true" duration-ms="0" started-at="2024-06-24T05:44:51Z" finished-at="2024-06-24T05:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterUserGroup -->
       </class> <!-- com.example.AppTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->

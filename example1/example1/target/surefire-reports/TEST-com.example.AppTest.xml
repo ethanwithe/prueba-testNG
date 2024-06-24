@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.AppTest" time="0.775" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.AppTest" time="0.932" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="PE"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\HUAWEI\AppData\Local\Temp\surefire3572783242670010824\surefirebooter5884520508375829900.jar C:\Users\HUAWEI\AppData\Local\Temp\surefire3572783242670010824 2024-06-23T23-42-47_053-jvmRun1 surefire1682433978132166256tmp surefire_0697644384104034436tmp"/>
+    <property name="sun.java.command" value="C:\Users\HUAWEI\AppData\Local\Temp\surefire4306291719035621787\surefirebooter452656154757444346.jar C:\Users\HUAWEI\AppData\Local\Temp\surefire4306291719035621787 2024-06-24T00-44-49_373-jvmRun1 surefire2098055107091347770tmp surefire_06526350424053663324tmp"/>
     <property name="surefire.test.class.path" value="D:\TERCER-SICLO-D-D-SOFTWARE\TÉCNICAS-DE-PRUEBA-DE-SOFTWARE\prueba-testNG\example1\example1\target\test-classes;D:\TERCER-SICLO-D-D-SOFTWARE\TÉCNICAS-DE-PRUEBA-DE-SOFTWARE\prueba-testNG\example1\example1\target\classes;C:\Users\HUAWEI\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\HUAWEI\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\HUAWEI\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\HUAWEI"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\HUAWEI\AppData\Local\Temp\surefire3572783242670010824\surefirebooter5884520508375829900.jar;C:\\Users\\HUAWEI\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.4\\org.jacoco.agent-0.8.4-runtime.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\HUAWEI\AppData\Local\Temp\surefire4306291719035621787\surefirebooter452656154757444346.jar;C:\\Users\\HUAWEI\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.4\\org.jacoco.agent-0.8.4-runtime.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,14 +60,14 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testMethod" classname="com.example.AppTest" time="0">
+  <testcase name="testMethod" classname="com.example.AppTest" time="0.004">
     <system-out><![CDATA[before suite
 Before class
 Before Method
 test method
 ]]></system-out>
   </testcase>
-  <testcase name="testUserRole" classname="com.example.AppTest" time="0">
+  <testcase name="testUserRole" classname="com.example.AppTest" time="0.007">
     <system-out><![CDATA[after Method
 Before User Group
 Before Method
