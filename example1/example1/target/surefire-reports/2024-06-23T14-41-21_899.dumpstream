@@ -1,0 +1,4 @@
+# Created at 2024-06-23T14:41:22.467
+Boot Manifest-JAR contains absolute paths in classpath 'D:\TERCER-SICLO-D-D-SOFTWARE\TÉCNICAS-DE-PRUEBA-DE-SOFTWARE\prueba-testNG\example1\example1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
